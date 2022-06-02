@@ -95,7 +95,7 @@
     "witsec-mailform-recaptcha-secretkey": "",
     "witsec-mailform-recaptcha-score": "0.5",
     "witsec-mailform-disable-button": false,
-    "mbrsiteDomain": "hytqv4b3pi",
+    "mbrsiteDomain": "csiusawbng",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -119,7 +119,7 @@
     "witsec-language": false,
     "witsec-jquery": false,
     "google-analytics": "",
-    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-WX968X13XN\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-WX968X13XN');\n</script>"
+    "global_header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-WX968X13XN\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-WX968X13XN');\n</script>\n\n<script type=\"text/javascript\">\nvar SITE_URL='https://centella-info.nhc.company';\nsysLanguage=navigator.systemLanguage?navigator.systemLanguage:navigator.language;\nif(sysLanguage == 'th' || sysLanguage == 'id' || sysLanguage == 'vi' || sysLanguage == 'ja' || sysLanguage == 'tr' || sysLanguage == 'zh-cn' || sysLanguage == 'zh-CN'){ \nwindow.location.href=https://centella-infor.nhc.company; }\n</script>"
   },
   "pages": {
     "index.html": {
